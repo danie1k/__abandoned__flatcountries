@@ -356,6 +356,10 @@ def is_north_america(country_code):
     return country_code in NORTH_AMERICA
 
 
+def is_not_europe(country_code):
+    return country_code in NON_EU
+
+
 def is_oceania(country_code):
     return country_code in OCEANIA
 
