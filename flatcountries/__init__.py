@@ -1,9 +1,9 @@
-"""
-@author     Daniel Kuruc
-@date       2017/07/18
-@email      dnk@dnk.net.pl
-@license    MIT
-"""
+__author__ = 'Daniel Kuruc'
+__date__ = '2017/07/19'
+__email__ = 'dnk@dnk.net.pl'
+__license__ = 'MIT'
+__version__ = '0.0.1'
+
 AFRICA = (
     'AO',
     'BF',
